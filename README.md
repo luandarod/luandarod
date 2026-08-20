@@ -128,8 +128,8 @@ Otimização de convocação para Copa do Mundo a partir de dados de desempenho.
 
 <div align="center">
 
-![Luanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=luandarod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luandarod&layout=compact&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/luandarod?style=for-the-badge&color=14b8a6&labelColor=1a1a1a)
+![Profile views](https://komarev.com/ghpvc/?username=luandarod&style=for-the-badge&color=14b8a6&label=PROFILE+VIEWS)
 
 </div>
 
