@@ -67,28 +67,32 @@ Hoje conecto **SQL, BI, cloud analytics e machine learning** em produtos que alg
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 [WHO Global Health Signals](https://github.com/luandarod/who-global-health-signals)
-Benchmark de predição de expectativa de vida com **218 países** e **13.785 observações** analíticas.
+### 🗺️ [Brazil Telemedicine Access Atlas](https://github.com/luandarod/ubs-healthcare-mapping)
+Atlas de acesso territorial à APS e oportunidade para telemedicina em **5.567 municípios**, com dados de UBS, IBGE, DATASUS, farmácias e conectividade.
+
+[Dashboard interativo](https://luandarodrigues-portfolio.vercel.app/dashboards/ubs-healthcare-mapping/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💊 [Heart Disease Risk Prediction](https://github.com/luandarod/heart-disease-risk-prediction)
-Modelo clínico de ML sobre **918 observações**, com foco em interpretabilidade.
+### 🌍 [WHO Global Health Signals](https://github.com/luandarod/who-global-health-signals)
+Benchmark de expectativa de vida com **218 países e entidades**, painel temporal, auditoria de qualidade e comparação de modelos.
+
+[Relatório ao vivo](https://who-global-health-signals.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 [Olist Delivery Experience Analytics](https://github.com/luandarod/olist-delivery-experience-analytics)
-Análise operacional de **99.441 pedidos**, ligando logística à satisfação do cliente.
+### 💉 [Atlas de Vacinação contra Sarampo](https://github.com/luandarod/atlas-vacinacao-sarampo-brasil)
+Análise municipal de lacunas de cobertura vacinal, com foco em saúde pública, desigualdade territorial e qualidade dos dados.
 
 </td>
 <td width="50%" valign="top">
 
-### 🪙 [Crypto Market Intelligence Lakehouse](https://github.com/luandarod/crypto-market-intelligence-lakehouse)
-Arquitetura medallion no Databricks com analytics interativo de mercado cripto.
+### 📦 [Olist Delivery Experience Analytics](https://github.com/luandarod/olist-delivery-experience-analytics)
+Análise operacional de **99.441 pedidos**, conectando SQL, logística, atrasos, frete e satisfação do cliente.
 
 </td>
 </tr>
@@ -96,27 +100,17 @@ Arquitetura medallion no Databricks com analytics interativo de mercado cripto.
 <td width="50%" valign="top">
 
 ### 🧑‍💼 [Workforce & Labor Market Intelligence](https://github.com/luandarod/workforce-labor-market-intelligence-bi-suite)
-Produto de BI para análise de risco de retenção e contratação.
+Produto de BI para leitura de pressão de retenção, custo e risco de contratação.
+
+[Painel interativo](https://luandarodrigues-portfolio.vercel.app/workforce-intelligence)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [CineGraph Network Intelligence](https://github.com/luandarod/cinegraph-network-intelligence)
-Sistema de recomendação baseado em grafos com **22.393 filmes**.
+### 🪙 [Crypto Market Intelligence Lakehouse](https://github.com/luandarod/crypto-market-intelligence-lakehouse)
+Arquitetura bronze–silver–gold, engenharia de atributos e produto analítico de inteligência de mercado.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ [pode-comer](https://github.com/luandarod/pode-comer) `privado`
-Consulta de segurança alimentar para alergias, intolerâncias e restrições, com fontes abertas e foco no Brasil.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 [Brazil World Cup Squad Optimizer](https://github.com/luandarod/brazil-world-cup-squad-optimizer)
-Otimização de convocação para Copa do Mundo a partir de dados de desempenho.
+[Case ao vivo](https://crypto-market-intelligence-lakehous.vercel.app/)
 
 </td>
 </tr>
